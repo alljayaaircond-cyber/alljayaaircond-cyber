@@ -11,7 +11,7 @@ window.SITE = {
   city: "Yogyakarta",
   phoneDisplay: "0817-344-555",
   whatsapp: "62817344555", // format 62..., tanpa + dan tanpa 0 di depan
-  email: "halo@contoh.com",
+  email: "alljayaaircond@cgmail.com",
   address: "Gancakan Wetan, Sidomulyo, Godean, Sleman Regency, Special Region of Yogyakarta 55264",
   hours: "Setiap hari, 07.00 – 21.00 WIB",
   instagram: "https://instagram.com/",
