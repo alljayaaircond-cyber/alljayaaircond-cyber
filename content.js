@@ -25,5 +25,5 @@ window.SITE = {
   // Cara mendapatkan Place ID: https://developers.google.com/maps/documentation/places/web-service/place-id
   googlePlaceId: "ChIJKd8wOsz3ei4RyzLExerNV90", // contoh: "ChIJxxxxxxxxxxxx"
   googleMapsUrl: "https://maps.app.goo.gl/XWKGHPcfuJjZ2v6E7", // opsional: tempel link profil Google Maps bisnis Anda
-  mapsQuery: "service ac terdekat, all jaya aircond, Jual Beli AC Baru dan Bekas (Sparepart), Jual Beli AC Baru dan Bekas (Sparepart) ALL JAYA AIRCOND", // opsional: kata kunci peta, kosong = pakai alamat di atas
+  mapsQuery: "-7.789257290312977, 110.30174746134259, service ac terdekat, all jaya aircond, Jual Beli AC Baru dan Bekas (Sparepart), Jual Beli AC Baru dan Bekas (Sparepart) ALL JAYA AIRCOND", // opsional: kata kunci peta, kosong = pakai alamat di atas
 };
